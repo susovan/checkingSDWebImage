@@ -1,0 +1,6 @@
+framework module Pods_WiproCodingTestUITests {
+  umbrella header "Pods-WiproCodingTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
